@@ -7,7 +7,7 @@ spec:
   generators:
   - list:
       elements:
-      - repoURL: https://github.com/crichthammer/argocd-example-apps.git
+      - repoURL: https://github.com/argoproj/argocd-example-apps
         path: guestbook
         name: guestbook
   template:
